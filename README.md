@@ -1,5 +1,5 @@
-## Hi there
-## I'm Huzaib and I'm a deep learning enthusiast
+## Hi there :wave:
+## I'm Huzaib and I'm a deep learning and machine learning enthusiast
 
 ## ✉️ Find me on:
 
